@@ -43,6 +43,12 @@
       "skillPath": "SKILL.md",
       "computedHash": "08cfc7245cee0f9440b12fad288cce9622a333f4f011eb3aaf9164c306359c74"
     },
+    "skill-superpowers-writing-plans-use-skills": {
+      "source": "hekonsek/skill-superpowers-writing-plans-use-skills",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "8d481373200b3c454bc864dea7378f58a1e3c3a682d6d86a485b31fe28411448"
+    },
     "subagent-driven-development": {
       "source": "obra/superpowers",
       "sourceType": "github",
